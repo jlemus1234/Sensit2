@@ -1,0 +1,134 @@
+body {
+  font-family: Arial, Helvetica;
+  background-color: white;
+}
+
+
+div {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+header{
+  margin-top: 0;
+  border-style:solid;
+  border-bottom-width: 1px;
+  border-top-width: 3px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-color: gray;
+  border-color: rgba(110, 110, 110, 0.5);
+  overflow: hidden;
+  font-size: 15px;
+}
+
+.name {
+  margin: 2%;
+  margin-left: 5%;
+  float: left;
+  font-size: 25px;
+  color: rgb(116, 168, 168);
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 2%;
+  margin-right: 5%;
+  padding: 0;
+  overflow: hidden;
+}
+
+nav a{
+  text-decoration: none;
+  display: block;
+  float: right;
+  margin-left: 4%;
+}
+
+a:link, a:visited {
+  color: gray
+}
+
+a.current {
+  color:black
+}
+
+a:hover {
+  color: black;
+  text-decoration: underline;
+}
+
+img.product {
+  position: relative;
+  margin-top: 5%;
+  margin-bottom: 0%;
+  bottom:0;
+}
+
+div.designDiagrams {
+  overflow:hidden;
+  width: 100%;
+}
+
+.portraitRow{
+  overflow: hidden;
+  margin-top: 4%;
+  margin-bottom: 4%;
+  margin-left: 0;
+  margin-right: 0;
+  width: 100%
+}
+.portraitRow h2{
+  float: left;
+  margin: 0;
+  padding: 4%;
+  color: rgb(66,118, 118);
+}
+
+.portraitRow img{
+  float: left;
+}
+
+.portraitRow p{
+
+}
+
+.portraitInfo{
+
+}
+
+img.garb {
+  float:left;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  bottom:0;
+  border-style:0;
+}
+
+footer {
+  margin-top: 100px;
+  border-top-style:solid;
+  border-top-width: 1px;
+  border-color: gray;
+  border-color: rgba(110, 110, 110, 0.5);
+}
+
+h4 {
+  color: rgb(66, 118, 118);
+}
+
+.current {
+  color: rgb(116, 168, 168);
+}
+
+.pageTitles {
+  color: rgb(116, 168, 168);
+}
+
+.logo {
+  position: relative;
+  margin-top: 0%;
+  padding: 0%;
+  margin-bottom: 0%;
+  float: left;
+}
