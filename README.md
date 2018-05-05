@@ -11,3 +11,7 @@ when someone is sitting and when they are potentially slouching.
 
 The device also contains LEDs and an alarm which sounds if the slouching is
 detected for a few seconds straight.
+
+
+The website is located at:
+https://sensitbme.herokuapp.com/jaloGraph.html 
